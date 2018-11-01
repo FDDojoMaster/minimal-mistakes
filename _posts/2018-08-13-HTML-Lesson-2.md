@@ -1,20 +1,18 @@
 ---
-title:  "HTML Lesson 2: Basics 1: HTML tags and Syntax."
-comments: true
+title: 'HTML Lesson 2: Basics 1: HTML tags and Syntax.'
+date: 2018-08-13 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Basics
-  - Lesson
+- HTML/CSS/JS
+- Basics
+- Lesson
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
+comments: true
 toc: true
-
 ---
-
 
 # An Introduction into HTML tags
 

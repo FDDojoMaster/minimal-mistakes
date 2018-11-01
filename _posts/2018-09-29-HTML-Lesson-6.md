@@ -1,17 +1,14 @@
 ---
-title:  "HTML Lesson 5- Summary"
+title: HTML Lesson 5- Summary
+date: 2018-09-29 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Summary
-
-
+- HTML/CSS/JS
+- Summary
 tags:
-  - HTML/CSS/JS
-  - Summary
-  - Programming
-  - Web Development
-
-
+- HTML/CSS/JS
+- Summary
+- Programming
+- Web Development
 toc: true
 ---
 

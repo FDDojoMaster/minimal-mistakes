@@ -1,18 +1,18 @@
 ---
-title:  "HTML Reference 1"
+title: HTML Reference 1
+date: 2018-09-03 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Basics
-  - Project
-  - Howto
+- HTML/CSS/JS
+- Basics
+- Project
+- Howto
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-  - CSS
-  - Styling
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
+- CSS
+- Styling
 toc: true
 ---
 

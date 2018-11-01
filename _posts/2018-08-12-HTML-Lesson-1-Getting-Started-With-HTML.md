@@ -1,19 +1,17 @@
 ---
-title:  "Lesson 1: Getting Started with HTML, CSS and Javascript"
-search: true
-categories: 
-  - HTML/CSS/JS
-  - Basics
-  - Lesson
-
+title: 'Lesson 1: Getting Started with HTML, CSS and Javascript'
+date: 2018-08-12 00:00:00 Z
+categories:
+- HTML/CSS/JS
+- Basics
+- Lesson
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
+search: true
 toc: true
-
 ---
 
 # What is HTML?

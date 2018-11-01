@@ -1,11 +1,10 @@
 ---
-permalink: 
+title: Search Posts By Category
 layout: default
-title: "Search Posts By Category"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: Minimal Mistakes is a flexible two-column Jekyll theme.
 toc: true
 sidebar:
-  nav: "posts"
+  nav: posts
 ---
 
 # Hi

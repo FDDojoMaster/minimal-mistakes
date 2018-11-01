@@ -1,19 +1,19 @@
 ---
-title:  "HTML Lesson 4: Styling elements using basic CSS."
+title: 'HTML Lesson 4: Styling elements using basic CSS.'
+date: 2018-09-02 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Basics
-  - Lesson
-  - CSS
-  - Styling
+- HTML/CSS/JS
+- Basics
+- Lesson
+- CSS
+- Styling
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-  - CSS
-  - Styling
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
+- CSS
+- Styling
 toc: true
 ---
 

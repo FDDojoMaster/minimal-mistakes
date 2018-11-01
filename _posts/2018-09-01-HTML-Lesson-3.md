@@ -1,18 +1,18 @@
 ---
-title:  "HTML Lesson 3: Basics 1: HTML Tags (Continued) + Your First Website"
+title: 'HTML Lesson 3: Basics 1: HTML Tags (Continued) + Your First Website'
+date: 2018-09-01 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Basics
-  - Lesson
+- HTML/CSS/JS
+- Basics
+- Lesson
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
 toc: true
-
 ---
+
 # More on HTML tags and building our First Website!
 
 ## An Introduction....

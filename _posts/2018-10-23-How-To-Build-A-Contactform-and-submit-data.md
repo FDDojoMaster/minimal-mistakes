@@ -1,24 +1,20 @@
 ---
-title:  "How to Build a Custom Contact Form and Submit Real Data"
+title: How to Build a Custom Contact Form and Submit Real Data
+date: 2018-10-23 00:00:00 Z
 categories:
-  - HTML/CSS/JS
-  - Project
-  - Forms
-  - API
-  - Server Projects
-  
-
-
+- HTML/CSS/JS
+- Project
+- Forms
+- API
+- Server Projects
 tags:
-  - HTML/CSS/JS
-  - Project
-  - Forms
-  - Validation
-  - API
-  - Programming
-  - Web Development
-
-
+- HTML/CSS/JS
+- Project
+- Forms
+- Validation
+- API
+- Programming
+- Web Development
 toc: true
 ---
 

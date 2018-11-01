@@ -1,18 +1,16 @@
 ---
-title: "The History of HTML"
+title: The History of HTML
+date: 2018-08-11 00:00:00 Z
 categories:
-   - HTML/CSS/JS
-   - Basics
-   - Lesson
+- HTML/CSS/JS
+- Basics
+- Lesson
 tags:
-  - HTML/CSS/JS
-  - Introduction
-  - Programming
-  - Web Development
-
-
+- HTML/CSS/JS
+- Introduction
+- Programming
+- Web Development
 toc: true
-
 ---
 
 ## An Introduction to HTML
